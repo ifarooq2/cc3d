@@ -1,0 +1,5 @@
+<Simulation version="4.3.2">
+   <XMLScript Type="XMLScript">Simulation/hw1dot2.xml</XMLScript>
+   <PythonScript Type="PythonScript">Simulation/hw1dot2.py</PythonScript>
+   <Resource Type="Python">Simulation/hw1dot2Steppables.py</Resource>
+</Simulation>
